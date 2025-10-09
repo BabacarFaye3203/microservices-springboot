@@ -1,0 +1,8 @@
+C:\Users\Ousmane\babacarservices\Fraud\src\main\java\com\babacar\app\controllers\FraudController.java
+C:\Users\Ousmane\babacarservices\Fraud\src\main\java\com\babacar\app\dto\request\CreateFraudRequest.java
+C:\Users\Ousmane\babacarservices\Fraud\src\main\java\com\babacar\app\dto\responses\CheckFraudsterResponse.java
+C:\Users\Ousmane\babacarservices\Fraud\src\main\java\com\babacar\app\dto\responses\FraudResponse.java
+C:\Users\Ousmane\babacarservices\Fraud\src\main\java\com\babacar\app\entities\Fraud.java
+C:\Users\Ousmane\babacarservices\Fraud\src\main\java\com\babacar\app\FraudApplication.java
+C:\Users\Ousmane\babacarservices\Fraud\src\main\java\com\babacar\app\repositories\FraudRepository.java
+C:\Users\Ousmane\babacarservices\Fraud\src\main\java\com\babacar\app\services\FraudService.java

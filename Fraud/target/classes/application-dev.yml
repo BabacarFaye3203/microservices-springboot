@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    username: ${DB_USERNAME:postgres}
+    password: ${DB_PASSWORD:123456Az}
+    url: ${DB_URL:jdbc:postgresql://localhost:${DB_PORT:5432}/fraud}
+    driver-class-name: org.postgresql.Driver
+  liquibase:
+    enabled: false
+    drop-first: false
+    default-schema: public
+    change-log: classpath:/db/changelog/db.changelog-master.yml
+server:
+  port: ${SERVER_PORT:8082}
+  http2:
+    enabled: true
+
+logging:
+  level:
+    org.springframework.security: DEBUG

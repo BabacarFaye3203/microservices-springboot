@@ -1,0 +1,10 @@
+com\babacar\app\dto\responses\CheckFraudsterResponse$CheckFraudsterResponseBuilder.class
+com\babacar\app\dto\responses\FraudResponse$FraudResponseBuilder.class
+com\babacar\app\dto\responses\FraudResponse.class
+com\babacar\app\repositories\FraudRepository.class
+com\babacar\app\entities\Fraud.class
+com\babacar\app\FraudApplication.class
+com\babacar\app\controllers\FraudController.class
+com\babacar\app\services\FraudService.class
+com\babacar\app\dto\responses\CheckFraudsterResponse.class
+com\babacar\app\dto\request\CreateFraudRequest.class

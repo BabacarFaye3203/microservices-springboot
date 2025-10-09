@@ -1,7 +1,9 @@
 C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\controller\CustomerController.java
 C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\CostumerApplication.java
 C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\dto\requests\CreateCustomerRequest.java
+C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\dto\responses\CheckFraudsterResponse.java
 C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\dto\responses\CreateCustomerResponse.java
 C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\entities\Customer.java
 C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\repositories\CustomerRepository.java
+C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\services\CustomerConfig.java
 C:\Users\Ousmane\babacarservices\customer\src\main\java\com\babacar\app\services\CustomerService.java
