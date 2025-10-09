@@ -32,7 +32,7 @@ public class CustomerService {
         customerRepository.saveAndFlush(customer);
 
         CheckFraudsterResponse response=restTemplate.getForObject(
-                "http://localhost:8082/fraud/{customer_uuid}",
+                "http://FRAUD/fraud/{customer_uuid}",
                 CheckFraudsterResponse.class,
                 customer.getUuid()
         );
